@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aldisport/static/css/main.31b19a47.chunk.css",
+    "main.js": "/aldisport/static/js/main.79d33cf4.chunk.js",
+    "main.js.map": "/aldisport/static/js/main.79d33cf4.chunk.js.map",
+    "runtime-main.js": "/aldisport/static/js/runtime-main.5af7196b.js",
+    "runtime-main.js.map": "/aldisport/static/js/runtime-main.5af7196b.js.map",
+    "static/js/2.ecb2c664.chunk.js": "/aldisport/static/js/2.ecb2c664.chunk.js",
+    "static/js/2.ecb2c664.chunk.js.map": "/aldisport/static/js/2.ecb2c664.chunk.js.map",
+    "static/js/3.a244d695.chunk.js": "/aldisport/static/js/3.a244d695.chunk.js",
+    "static/js/3.a244d695.chunk.js.map": "/aldisport/static/js/3.a244d695.chunk.js.map",
+    "index.html": "/aldisport/index.html",
+    "static/css/main.31b19a47.chunk.css.map": "/aldisport/static/css/main.31b19a47.chunk.css.map",
+    "static/js/2.ecb2c664.chunk.js.LICENSE.txt": "/aldisport/static/js/2.ecb2c664.chunk.js.LICENSE.txt",
+    "static/media/bug_fixed.805bfbc9.png": "/aldisport/static/media/bug_fixed.805bfbc9.png",
+    "static/media/company_team.3b7494a8.jpg": "/aldisport/static/media/company_team.3b7494a8.jpg",
+    "static/media/logo_croped.2d94db12.png": "/aldisport/static/media/logo_croped.2d94db12.png",
+    "static/media/mobile_phone.bdfea3cf.png": "/aldisport/static/media/mobile_phone.bdfea3cf.png",
+    "static/media/rocket_launch_.33a646c0.jpg": "/aldisport/static/media/rocket_launch_.33a646c0.jpg",
+    "static/media/web_development_.59a2b9bb.png": "/aldisport/static/media/web_development_.59a2b9bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af7196b.js",
+    "static/js/2.ecb2c664.chunk.js",
+    "static/css/main.31b19a47.chunk.css",
+    "static/js/main.79d33cf4.chunk.js"
+  ]
+}
